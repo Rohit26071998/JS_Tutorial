@@ -21,3 +21,23 @@
 // │ 2       │ 'steve@gmail.com' │
 // │ 3       │ undefined         │
 // └─────────┴───────────────────┘
+
+
+/*
+    DataType in JS:
+    Primitive DataType
+    1. Number
+    2. String
+    3. Boolean
+    4. BigInt
+    5. Undefined
+    6. Null
+    7. Symbol
+
+    Object DataType
+    1. Object
+    2. Array
+    3. Function
+    4. Date, RegExp, Map, Set, WeakMap, WeakSet
+*/
+
