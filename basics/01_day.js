@@ -45,3 +45,20 @@
 // console.log(typeof 123)
 // console.log(typeof undefined)
 // console.log(typeof null)
+
+// Type Casting in JS
+// let score = Symbol
+// console.log(typeof score)
+// console.log(typeof(score))
+
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber)
+// console.log(valueInNumber)
+
+// "33" => 33
+//"33ab" => NaN
+// true => 1
+// undefined => NaN
+// null => 0
+// Symbol => NaN
+
