@@ -41,3 +41,7 @@
     4. Date, RegExp, Map, Set, WeakMap, WeakSet
 */
 
+// console.log(typeof "name")
+// console.log(typeof 123)
+// console.log(typeof undefined)
+// console.log(typeof null)
